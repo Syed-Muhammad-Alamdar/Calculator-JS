@@ -14,6 +14,3 @@ A clean, modern web application built with HTML, CSS, and JavaScript that perfor
 * CSS3 (Flexbox & Custom Styling)
 * JavaScript (DOM Manipulation & LocalStorage API)
 
-## 📸 Preview
-![Calculator Interface](https://raw.githubusercontent.com/Syed-Muhammad-Alamdar/Calculator-JS/main/index.html) 
-*(Or replace this text with your live link once it's up!)*
